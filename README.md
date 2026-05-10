@@ -66,7 +66,7 @@ The MAC address tells the ESP32 which device to connect to. You only need to do 
 void setup()
 {   
     Serial.begin(2000000);                  // High-speed baud rate for real-time raw data streaming, high-quality USB cable recommended
-    WolfSense.SetMAC("A4:C1:38:37:60:E0");   // Replace with your gamepad's MAC address
+    WolfSense.SetMAC("AA:BB:CC:DD:EE:FF");   // Replace with your gamepad's MAC address
     WolfSense.SetDeathZone(20);
     WolfSense.begin();
 }
