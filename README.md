@@ -1,6 +1,6 @@
 # WolfSense
 
-An Arduino library for **ESP32** to read input from the **Flydigi Dire Wolf 3** gamepad via Bluetooth Low Energy (BLE).
+An Arduino library for ESP32 to connect Flydigi Dire Wolf 3 gamepad over Bluetooth Low Energy (BLE). Full joystick and button support with simultaneous multi-button input, dead zone adjustment, and auto-reconnect.
 
 > Made by Tony Huynh Tran — May 2026
 
